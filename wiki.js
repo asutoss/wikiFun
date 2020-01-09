@@ -43,6 +43,6 @@ app.get('/info',async(req,res)=>{
 })
 
 
-app.listen(3000,()=>{
-    console.log(" server is up!")
-})
+// app.listen(3000,()=>{
+//     console.log(" server is up!")
+// })
